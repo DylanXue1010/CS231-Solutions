@@ -12,3 +12,7 @@ Currently taking the CS231n course, using the Spring 2025 lecture slides and ass
 ## Solutions
 
 ### Assignment 1
+* [Q1](assignment1/knn.ipynb): k-Nearest Neighbor classifier. (_Done_)
+* [Q2](assignment1/softmax.ipynb): Implement a Softmax classifier. (_Done_)
+* [Q3](assignment1/two_layer_net.ipynb): Two-Layer Neural Network. (_Done_)
+* [Q4](assignment1/features.ipynb): Higher Level Representations: Image Features. (_Done_)
